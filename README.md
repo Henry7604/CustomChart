@@ -1,4 +1,5 @@
-# CustomChart
+## Preview
+![sample](https://github.com/Henry7604/CustomChart/blob/master/sample.gif?raw=true)
 
 ## Gradle：
 
