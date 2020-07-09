@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ChartView">
+        <attr name="paint_line_color" format="color"/>
+        <attr name="gradient_color_start" format="color"/>
+        <attr name="gradient_color_end" format="color"/>
+    </declare-styleable>
+</resources>

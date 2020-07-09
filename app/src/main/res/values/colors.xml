@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+
+    <color name="dark_lavender">#6B5A95</color>
+    <color name="slate_grey">#57575A</color>
+    <color name="light_navy_blue">#2D4C7B</color>
+    <color name="battleship_grey">#77777A</color>
+    <color name="battleship_grey_transparent_50">#8077777A</color>
+    <color name="pale_grey">#F9F9FB</color>
+    <color name="dusk">#483C66</color>
+    <color name="light_periwinkle">#D3D3D9</color>
+    <color name="pale_purple">#A390D1</color>
+    <color name="black">#232222</color>
+    <color name="charcoal_grey">#444445</color>
+    <color name="muted_pink">#CE738E</color>
+
+    <color name="product_a">#9FCDF3</color>
+    <color name="product_b">#C6B5F1</color>
+    <color name="divider">#EAEAF0</color>
+    <color name="electricity_purple">#775EB2</color>
+    <color name="white">#FFFFFF</color>
+    <color name="white_transparent_25">#40FFFFFF</color>
+    <color name="white_transparent_20">#32FFFFFF</color>
+    <color name="white_transparent_40">#66FFFFFF</color>
+    <color name="white_transparent_50">#80FFFFFF</color>
+    <color name="progress_end_purple">#CABEEC</color>
+    <color name="progress_start_purple">#6B5A95</color>
+    <color name="progress_bar_background">#0c000000</color>
+    <color name="title_black">#454545</color>
+    <color name="title_center">#212121</color>
+    <color name="button_disabled_purple">#9F94BB</color>
+    <color name="circle_shadow">#33000000</color>
+    <color name="start_y">#80dae7ff</color>
+    <color name="end_y">#26dae7ff</color>
+    <color name="cancel_grey">#757575</color>
+    <color name="low_battery">#E21E4B</color>
+    <color name="dodger_blue">#4b97ff</color>
+</resources>
