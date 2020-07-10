@@ -38,3 +38,12 @@ Add it in your root build.gradle at the end of repositories:
             app:paint_line_color="@color/dark_lavender" />
 
     </HorizontalScrollView>
+    
+    
+    val chartView = findViewById<ChartView>(R.id.chart)
+    val list = ArrayList<ChartModel>()
+    for (index in 0..999) {
+        val model = ChartModel(Random.nextInt(0, 100))
+        list.add(model)
+    }
+    chartView.setData(list)
